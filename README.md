@@ -1,4 +1,4 @@
-# rdfia_part2
+# RDFIA
 
 Reconnaissance des Formes pour l'Analyse et l'Interpretation des Images.
 
